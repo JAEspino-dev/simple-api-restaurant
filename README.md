@@ -1,22 +1,25 @@
-# 🍽️ Project: Simple API 2 - Restaurant
+# ☀️ Music App
+Use this program if you want to play some music in your restaurant! 
 
-### Goal: Build a simple front-end app that displays data returned from an api that would be beneficial to someone working at or managing a restaurant. 
+# 📋 How to use
+Open the app in your browser
+Type in an instrument, or genre
+Instantly load music to then be played for your guests! 
 
-### How to submit your code for review:
+# 📷 Images
+<img width="780" height="1125" alt="Screenshot 2026-09-28 at 7 20 17 PM" src="https://github.com/user-attachments/assets/690b8945-e01a-4bc8-9694-39ac7c8b03a6" />
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+# ✨ Features
+Fully responsive design for desktop and mobile
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+# 🔨 Built With
+HTML5 – structure, 
+CSS3 – responsive design and background, 
+JavaScript - fetch image of the day from NASA API
+
+# 🧠 What I Learned
+How to work with APIs
+How to use fetch()
+How to work with JSON data
+How to manipulate the DOM
+How to handle errors
