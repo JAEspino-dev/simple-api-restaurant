@@ -1,0 +1,33 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body{
+  background-image:url('../img/tasty-melody-sax-shape-colorful-products-isolated-white-73819448.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+section{
+  width:50%;
+  background:rgb(6, 87, 119);
+  text-align:center;
+  border:1px solid black;
+  border-radius:5px;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
